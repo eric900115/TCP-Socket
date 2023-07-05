@@ -1,7 +1,7 @@
 ### compile
-g++ server.cpp -o server
+g++ server.cpp -o server  
 g++ client.cpp -o client
 
 ### Execution
-./server
+./server  
 ./client
